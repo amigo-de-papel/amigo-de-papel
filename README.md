@@ -1,4 +1,4 @@
 - 👋 Oi, sou @amigo-de-papel
-	- 👀 Sou interessado em HTML e ChatGPT
-		- 🌱 Estudo na Código Kid Pituba e na Gira Girou
-    			- 🐱‍💻 Uso VSCode
+- 👀 Sou interessado em HTML e ChatGPT
+- 🌱 Estudo na Código Kid Pituba e na Gira Girou
+- 🐱‍💻 Uso VSCode
